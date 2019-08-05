@@ -1,0 +1,70 @@
+body{
+	height: 3000px;
+}
+.nav-link:hover{
+	color: rgb(255, 60, 0) !important;
+}
+
+.navbar{
+	height: 50px;
+	background: rgba(255,255,255,0.1) !important;
+	
+}
+
+.navbar-brand{
+	color: #fff !important;
+}
+
+.nav-link{
+	color: #fff !important;
+	font-size: 16px;
+}
+
+.style-button{
+	color: rgb(255, 90, 0);
+	border: solid 1px rgb(255, 90, 0);
+}
+
+.style-button:hover{
+	background: #b54321;
+	color: #fff;
+	border: none;
+}
+
+.style-button:visited{
+	background: #b54321;
+	color: #fff;
+	border: none;
+}
+
+.style{
+	background: #303539;
+	color: #fff;
+	display: flex;
+	padding-left: 210px;
+}
+
+.logo img{
+	width: 50px;
+	height: 50px;
+}
+
+.logo{
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Libre Baskerville', serif;
+	font-family: 'Libre Caslon Text', serif;
+	font-family: 'Lobster', cursive;
+	font-size: 19px;
+	text-transform: capitalize rgb(255, 80, 0);
+}
+
+.style a{
+	padding: 10px 15px;
+	color: #d2d6da;
+	font-size: 12px;
+}
+
+.style a:hover{
+	text-decoration: none;
+	color: #b54321;
+}
